@@ -1,5 +1,5 @@
 # ACH
-wiki: https://en.wikipedia.org/wiki/Automated_clearing_house, https://gocardless.com/en-us/guides/posts/ach/
+wiki: https://en.wikipedia.org/wiki/Automated_clearing_house, https://gocardless.com/en-us/guides/posts/ach/, https://gocardless.com/en-us/guides/posts/difference-between-push-payment-vs-pull-payment/, https://gocardless.com/en-us/guides/ach/ach-credit-vs-debit/, https://gocardless.com/en-us/guides/ach/ach-debit-the-easy-way/
 
 https://gocardless.com/ characteristic: https://www.google.com/search?q=ach+time https://gocardless.com/en-us/guides/ach/ach-payment-processing-time/ https://www.shopify.com/blog/how-long-does-an-ach-transfer-take
 
@@ -11,3 +11,5 @@ https://en.wikipedia.org/wiki/NACHA
 https://en.wikipedia.org/wiki/ACH_Network
 
 History: https://www.nacha.org/content/history-nacha-and-ach-network, https://www.federalregister.gov/documents/2017/09/11/2017-19135/federal-government-participation-in-the-automated-clearing-house
+
+https://www.federalreserve.gov/paymentsystems/fedach_about.htm
