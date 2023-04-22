@@ -14,10 +14,14 @@ History: https://www.nacha.org/content/history-nacha-and-ach-network, https://ww
 
 https://www.federalreserve.gov/paymentsystems/fedach_about.htm
 
-
+# Entity
 https://en.wikipedia.org/wiki/The_Clearing_House
 https://en.wikipedia.org/wiki/The_Clearing_House_Payments_Company
 
 # Relation:  
 https://en.wikipedia.org/wiki/American_Bankers_Association
 https://en.wikipedia.org/wiki/Clearing_House_Interbank_Payments_System
+https://en.wikipedia.org/wiki/Clearing_(finance)
+https://en.wikipedia.org/wiki/SWIFT
+https://en.wikipedia.org/wiki/Electronic_Payments_Network
+https://en.wikipedia.org/wiki/National_Automated_Clearing_House
